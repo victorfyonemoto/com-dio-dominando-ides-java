@@ -1,7 +1,6 @@
 package com.dio;
 
 import java.io.PrintStream;
-import java.util.Random;
 import java.util.Scanner;
 
 public class FirstGame {
